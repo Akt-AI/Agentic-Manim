@@ -1,0 +1,129 @@
+[
+  {
+    "Question": "✨ Welcome to Agentic AI!",
+    "Answer": "Let's explore 30 key terms every AI learner should know.",
+    "include_audio": true
+  },
+  {
+    "Question": "Autonomous Agent",
+    "Answer": "An AI system capable of making decisions and taking actions independently."
+  },
+  {
+    "Question": "Multi-Agent System",
+    "Answer": "A collection of autonomous agents interacting within an environment."
+  },
+  {
+    "Question": "LLM Orchestration",
+    "Answer": "Coordinating multiple large language models or tools to achieve a task."
+  },
+  {
+    "Question": "Chain of Thought",
+    "Answer": "A reasoning method where the model breaks down its thinking step by step."
+  },
+  {
+    "Question": "Prompt Engineering",
+    "Answer": "The practice of designing inputs to guide the outputs of language models."
+  },
+  {
+    "Question": "ReAct Framework",
+    "Answer": "A strategy that combines reasoning and acting in agent workflows."
+  },
+  {
+    "Question": "Tool Use",
+    "Answer": "When an agent uses external tools like calculators, search engines, or APIs."
+  },
+  {
+    "Question": "Agent Loop",
+    "Answer": "A repetitive cycle of observing, reasoning, and acting by an agent."
+  },
+  {
+    "Question": "Memory Module",
+    "Answer": "A component that stores past interactions for reference in future tasks."
+  },
+  {
+    "Question": "Planning Module",
+    "Answer": "A system that breaks down tasks into steps for agents to execute."
+  },
+  {
+    "Question": "Executor",
+    "Answer": "The component responsible for carrying out planned actions."
+  },
+  {
+    "Question": "Retriever",
+    "Answer": "A module that fetches relevant data or context to support reasoning."
+  },
+  {
+    "Question": "Reflexion",
+    "Answer": "An agent's ability to review and revise its previous outputs."
+  },
+  {
+    "Question": "RAG (Retrieval-Augmented Generation)",
+    "Answer": "A method that combines information retrieval with text generation."
+  },
+  {
+    "Question": "Task Decomposition",
+    "Answer": "Breaking a complex task into smaller, manageable subtasks."
+  },
+  {
+    "Question": "LangChain",
+    "Answer": "A popular framework for building LLM-driven applications and agents."
+  },
+  {
+    "Question": "LangGraph",
+    "Answer": "A graph-based framework for creating stateful multi-step agents."
+  },
+  {
+    "Question": "Self-Refinement",
+    "Answer": "An agent's iterative improvement of its own outputs."
+  },
+  {
+    "Question": "Meta-Cognition",
+    "Answer": "Thinking about thinking — agents analyzing their reasoning process."
+  },
+  {
+    "Question": "Self-Rewarding Agent",
+    "Answer": "An agent that learns from self-generated feedback or rewards."
+  },
+  {
+    "Question": "Environment Simulation",
+    "Answer": "Creating virtual environments for agents to practice or evaluate."
+  },
+  {
+    "Question": "Autonomous Tool Selection",
+    "Answer": "An agent’s ability to choose tools without human help."
+  },
+  {
+    "Question": "Action Scoring",
+    "Answer": "Evaluating possible actions based on expected outcomes."
+  },
+  {
+    "Question": "Observation",
+    "Answer": "The process of perceiving the environment before reasoning."
+  },
+  {
+    "Question": "Agent Workflow",
+    "Answer": "The step-by-step flow that guides an agent’s behavior."
+  },
+  {
+    "Question": "Multi-Modal Agent",
+    "Answer": "An agent that can process and generate across multiple data types like text and image."
+  },
+  {
+    "Question": "Guardrails",
+    "Answer": "Safety and alignment controls to restrict undesirable agent behavior."
+  },
+  {
+    "Question": "Agent Persona",
+    "Answer": "The personality or role an agent adopts when interacting."
+  },
+  {
+    "Question": "Long-Term Memory",
+    "Answer": "A memory that persists across sessions and interactions."
+  },
+  {
+    "Question": "Thank You!",
+    "Answer": "Don’t forget to Like, Share, and Subscribe for more AI insights!",
+    "include_audio": true
+  }
+]
+
